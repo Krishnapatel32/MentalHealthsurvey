@@ -1,0 +1,13 @@
+name: Final_exam
+title: Final_exam
+username:
+account: krishnapatel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6094901
+bundleId: 5800275
+url: https://krishnapatel.shinyapps.io/Final_exam/
+when: 1649975573.74045
+lastSyncTime: 1649975573.74045
+asMultiple: FALSE
+asStatic: FALSE
